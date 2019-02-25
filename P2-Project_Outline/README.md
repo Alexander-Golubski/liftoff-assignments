@@ -1,10 +1,5 @@
 # Project Outline
 
-## Assignment Description
-[Project Outline Assignment](https://education.launchcode.org/liftoff/assignments/project-outline/)
-
-## Submission Instructions
-
 ### Overview
 
 [Spaced repetition](https://en.wikipedia.org/wiki/Spaced_repetition) is a technique for placing information in a learner’s long-term memory. It accomplishes this through spacing out reviews of the material. [There is a wealth of empirical data on the efficacy of spaced repetition.](https://www.gwern.net/Spaced-repetition#literature-review) There currently exist several spaced repetition software programs that help users implement this technique, including Anki, Mnemosyne, and SuperMemo. These programs allow users to create digital flashcards, and then prompt the user to review a given flashcard at a certain time based on an algorithm that considers if the user reported recalling the correct information, and, if so, how difficult it was (typically on a scale of 1 to 5).
