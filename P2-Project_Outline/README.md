@@ -1,5 +1,4 @@
 # Project Outline
-For this assignment, you will submit a high-level outline of your project. This can, and likely will, change over time. In particular, your mentor will provide feedback and direction and feedback to help sharpen your ideas. So don't worry if you feel unsure about some aspects of the outline, or if you have to change some things later.
 
 ## Assignment Description
 [Project Outline Assignment](https://education.launchcode.org/liftoff/assignments/project-outline/)
@@ -8,13 +7,12 @@ For this assignment, you will submit a high-level outline of your project. This 
 
 ### Overview
 
-[Spaced repetition](https://en.wikipedia.org/wiki/Spaced_repetition) is a technique for placing information in a learner’s long-term memory. It accomplishes this through spacing out reviews of the material[1]. There currently exist several spaced repetition software programs that help users implement this technique, including Anki, Mnemosyne, and SuperMemo. These programs allow users to create digital flashcards, and then prompt the user to review a given flashcard at a certain time based on an algorithm that considers if the user reported recalling the correct information, and, if so, how difficult it was (typically on a scale of 1 to 5).
+[Spaced repetition](https://en.wikipedia.org/wiki/Spaced_repetition) is a technique for placing information in a learner’s long-term memory. It accomplishes this through spacing out reviews of the material. [There is a wealth of empirical data on the efficacy of spaced repetition.](https://www.gwern.net/Spaced-repetition#literature-review) There currently exist several spaced repetition software programs that help users implement this technique, including Anki, Mnemosyne, and SuperMemo. These programs allow users to create digital flashcards, and then prompt the user to review a given flashcard at a certain time based on an algorithm that considers if the user reported recalling the correct information, and, if so, how difficult it was (typically on a scale of 1 to 5).
 
 I personally found the spaced repetition software program Anki to be extremely useful in learning mandarin vocabulary. Programs like Anki are commonly used by other language learners and medical students, and have been for decades. However, in all of my years of language classes, I never had a teacher who used spaced repetition software in the classroom. I believe this is because existing programs do not have any way for teachers to see if students are actually completing their flashcard reviews.
 
 For my Liftoff capstone, I will create a web app that will allow teachers to assign digital flashcards to their students. The web app will use a spaced repetition algorithm to determine when students will be asked to review a given card. Teachers will be able to see if students are keeping up with their reviews.
 
-[1] [There is a wealth of empirical data on the efficacy of spaced repetition.](https://www.gwern.net/Spaced-repetition#literature-review)
 
 ### Features
 
