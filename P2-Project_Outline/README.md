@@ -23,12 +23,12 @@ For my Liftoff capstone, I will create a web app that will allow teachers to ass
 
 ### Technologies
 
-Python
-Flask
-MySQL
-SQLAlchemy
-Jinja2 templates
-Pivotal Tracker
+* Python
+* Flask
+* MySQL
+* SQLAlchemy
+* Jinja2 templates
+* Pivotal Tracker
 
 ### What I'll Have to Learn
 
